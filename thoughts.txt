@@ -1,1 +1,2 @@
 Day 1: Feeling excited to learn Git!
+Day 2: Git is easier than I thought.
