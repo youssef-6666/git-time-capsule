@@ -1,2 +1,4 @@
 Day 1: Feeling excited to learn Git!
 Day 2: Git is easier than I thought.
+You have to believe in yourself when no one else does.
+Day 3: I made my first commit today!
